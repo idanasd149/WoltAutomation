@@ -1,0 +1,6 @@
+2024/02/25-13:05:28.758 1464 Creating DB C:\Users\עידן\Desktop\woltapp\saved_profiles\user_1\Default\IndexedDB\https_wolt.com_0.indexeddb.leveldb since it was missing.
+2024/02/25-13:05:28.766 1464 Reusing MANIFEST C:\Users\עידן\Desktop\woltapp\saved_profiles\user_1\Default\IndexedDB\https_wolt.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/25-13:05:28.828 4418 Level-0 table #5: started
+2024/02/25-13:05:28.833 4418 Level-0 table #5: 1399 bytes OK
+2024/02/25-13:05:28.835 4418 Delete type=0 #3
+2024/02/25-13:05:28.836 1464 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

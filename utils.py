@@ -10,7 +10,6 @@ def get_profile_directory(base_dir, user_id):
 
 
 def wait_for_file(filename, timeout=30):
-    """Wait for a specific file to exist within the given timeout period."""
     elapsed_time = 0
     while not os.path.exists(filename) and elapsed_time < timeout:
         time.sleep(1)

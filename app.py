@@ -15,14 +15,14 @@ def index():
     if request.method == 'POST':
         if 'userId' in request.form:
             user_id = request.form['userId']
-            # Save the user_id to a file
-            with open('user_id.txt', 'w') as f:
+            # TODO - Writing to a file is a temp arab fix until we have a DB
+            with open('saved_texts_files/user_id.txt', 'w') as f:
                 f.write(user_id)
 
         if 'amount' in request.form:
             amount = request.form['amount']
-            # Save the amount to a file
-            with open('amount.txt', 'w') as f:
+            # TODO - Writing to a file is a temp arab fix until we have a DB
+            with open('saved_texts_files/amount.txt', 'w') as f:
                 f.write(amount)
 
             # Start the Selenium script in the background after receiving the amount

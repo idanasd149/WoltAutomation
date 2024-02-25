@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/AutofillStates" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/CertificateRevocation" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Crashpad/attachments" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Crashpad/reports" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Crowd Deny" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Download Service/Files" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons Maskable" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons Monochrome" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons Maskable" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons Monochrome" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons Maskable" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons Monochrome" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons Maskable" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons Monochrome" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons Maskable" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons Monochrome" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons Maskable" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons Monochrome" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/Web Applications/Temp" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Default/blob_storage" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/FileTypePolicies" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/FirstPartySetsPreloaded" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/MEIPreload" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/MediaFoundationWidevineCdm" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/OnDeviceHeadSuggestModel" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/OptimizationHints" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/OriginTrials" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/PKIMetadata" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/PrivacySandboxAttestationsPreloaded" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/RecoveryImproved" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/SSLErrorAssistant" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Safe Browsing" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/SafetyTips" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/Subresource Filter" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/ThirdPartyModuleList64" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/TpcdMetadata" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/TrustTokenKeyCommitments" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/WidevineCdm" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/ZxcvbnData" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_1/hyphen-data" />
+      <excludeFolder url="file://$MODULE_DIR$/saved_profiles/user_2" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
